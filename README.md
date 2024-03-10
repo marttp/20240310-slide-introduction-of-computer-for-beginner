@@ -1,6 +1,6 @@
 # Introduction of computer for beginner
 
-Playlist URL: TBC
+Playlist URL: https://www.youtube.com/playlist?list=PLm3A9eDaMzun-MJLaR-yc1puQdUHR9Rjn
 
 Playlist นี้ถูกสร้างขึ้นมาให้กับ Audience ที่มีความรู้เริ่มต้นในด้านของ IT
 
@@ -9,3 +9,5 @@ Playlist นี้ถูกสร้างขึ้นมาให้กับ A
 ใน Playlist นี้จะ Focus ไปที่กลุ่มคนที่เป็นที่แรกเริ่มเป็นหลัก
 
 หวังว่าจะมีประโยชน์ไม่มากก็น้อย
+
+ความรู้เพิ่มเติม: https://medium.com/@tpbabparn/list/selftaught-developer-handbooks-ed6224532647
